@@ -1,13 +1,9 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
 export default function Gif () {
-    // const [data, setData]=useState([]);
-    useEffect(()=>{
-
-    },[])
     return (
         <div>
-            {/* {ifTrue ? add gif: <h2>Pull random gifs from Giphy</h2>} */}
+            <img src="" alt=""/>
         </div>
     )
 }

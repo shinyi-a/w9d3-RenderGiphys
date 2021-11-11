@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <h1>Giphy</h1>
-      <input placeholder="type of giphy"/>
-      <button>Submit</button>
-      <br/>
+      <br />
       <Button />
+      <br />
+      <h2>Use Giphy to pull some giphs</h2>
       <Gif />
     </div>
   );
