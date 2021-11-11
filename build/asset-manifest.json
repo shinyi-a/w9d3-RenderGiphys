@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/w9d3-rendergiphys/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/w9d3-rendergiphys/static/js/main.747f47f2.chunk.js",
+    "main.js.map": "/w9d3-rendergiphys/static/js/main.747f47f2.chunk.js.map",
+    "runtime-main.js": "/w9d3-rendergiphys/static/js/runtime-main.597aa493.js",
+    "runtime-main.js.map": "/w9d3-rendergiphys/static/js/runtime-main.597aa493.js.map",
+    "static/js/2.53e9b5f8.chunk.js": "/w9d3-rendergiphys/static/js/2.53e9b5f8.chunk.js",
+    "static/js/2.53e9b5f8.chunk.js.map": "/w9d3-rendergiphys/static/js/2.53e9b5f8.chunk.js.map",
+    "static/js/3.3778b19b.chunk.js": "/w9d3-rendergiphys/static/js/3.3778b19b.chunk.js",
+    "static/js/3.3778b19b.chunk.js.map": "/w9d3-rendergiphys/static/js/3.3778b19b.chunk.js.map",
+    "index.html": "/w9d3-rendergiphys/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/w9d3-rendergiphys/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.53e9b5f8.chunk.js.LICENSE.txt": "/w9d3-rendergiphys/static/js/2.53e9b5f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597aa493.js",
+    "static/js/2.53e9b5f8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.747f47f2.chunk.js"
+  ]
+}
